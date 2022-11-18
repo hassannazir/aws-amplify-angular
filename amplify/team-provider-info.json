@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hassannazirosp-dev-182425-authRole",
+      "UnauthRoleArn": "arn:aws:iam::777229646641:role/amplify-hassannazirosp-dev-182425-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::777229646641:role/amplify-hassannazirosp-dev-182425-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hassannazirosp-dev-182425-deployment",
+      "UnauthRoleName": "amplify-hassannazirosp-dev-182425-unauthRole",
+      "StackName": "amplify-hassannazirosp-dev-182425",
+      "StackId": "arn:aws:cloudformation:us-east-1:777229646641:stack/amplify-hassannazirosp-dev-182425/fbb31df0-65b1-11ed-a3d4-1212426f2299",
+      "AmplifyAppId": "d3pnqalxhomwns"
+    },
+    "categories": {
+      "api": {
+        "hassannazirosp": {}
+      },
+      "auth": {
+        "hassannazirospa72b5e77": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {},
+        "amplifyhosting": {
+          "appId": "d3pnqalxhomwns",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
